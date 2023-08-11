@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding: 1rem;
+}
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 1rem; 
+    max-width: 400px;
+  }
+button{
+    background-color: #cbcbcb;
+}  
